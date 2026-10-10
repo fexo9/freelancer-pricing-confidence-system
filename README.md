@@ -2,7 +2,7 @@
 
 **Know your floor. Quote with confidence. Never discount blind.**
 
-A 5-language pricing decision kit for freelancers, consultants, and independent contractors — English, French, Spanish, Italian, German.
+An 11-language pricing decision kit for freelancers, consultants, and independent contractors — English, Mandarin (Simplified), French, Spanish, Arabic, Russian, German, Japanese, Portuguese, Hindi, Italian.
 
 ## What it is
 
@@ -12,13 +12,13 @@ Not a template pack — a decision system. Every sheet outputs a verdict: a numb
 - **Value Tiers** — floor / target / premium rates with when-to-use guidance, a project price estimator, and a quick rate-safety check.
 - **Quote Confidence Checklist** — 14 scored checkpoints (scope lock, risk factors, payment terms, red-flag client signals) → GREEN / AMBER / RED verdict with a recommended action.
 - **Discount Guard** — enter the requested discount → effective rate vs. your floor, with a safe / conditional / walk-away verdict.
-- **Objection Scripts** — 5 copy-paste replies for "too expensive" pushback, firm but professional, in all 5 languages.
+- **Objection Scripts** — 5 copy-paste replies for "too expensive" pushback, firm but professional, in all 11 languages.
 
 The core principle: negotiate the scope, never the rate.
 
 ## Details
 
-- 5 Excel workbooks (EN / FR / ES / IT / DE), full parity across languages
+- 11 Excel workbooks (EN / ZH / FR / ES / AR / RU / DE / JA / PT / HI / IT), full parity across languages
 - No macros, no add-ins — Microsoft Excel (desktop & web)
 - $19 one-time, commercial license, instant download
 
