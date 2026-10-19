@@ -34,7 +34,7 @@ data), FAQ (EN + AR), limits notes, and a file-by-file inventory.
   data — change the inputs and watch your floor recompute.
   https://github.com/fexo9/freelancer-pricing-confidence-system/blob/main/FREE-SAMPLE-Pricing-Confidence.xlsx
 - **Demo video:** 72-second walkthrough of the real v3.0 files.
-  https://youtu.be/Rngtx-MrAe8
+  https://www.youtube.com/watch?v=8ZocPxm4-iw
 
 ## What it does NOT do
 
